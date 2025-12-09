@@ -2,12 +2,12 @@
 A complete ML project that predicts which users are most likely to convert based on behavioral data.
 
 🎯 Goal of This Project : Predict whether a user will convert (take desired action) based on:
->>Page views
->>Session duration
->>Click events
->>Devices
->>Traffic source
->>Engagement metrics
+1) Page views
+2) Session duration
+3) Click events
+4) Devices
+5) Traffic source
+6) Engagement metrics
 
 This type of model is used in:
 1) E-commerce
@@ -56,6 +56,7 @@ Matplotlib / Seaborn
 Jupyter Notebook
 
 📁 Repository Structure
+
 conversion-prediction-ml-model/
 │
 ├── data/
